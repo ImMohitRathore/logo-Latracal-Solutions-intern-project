@@ -95,9 +95,12 @@ left: 30%;
     border: none;
     outline: none;
     resize:none;
+    font-size: 18px;
     
     
   }
+
+  
   
   .main-note button{
     position: absolute;
